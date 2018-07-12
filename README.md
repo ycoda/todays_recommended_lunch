@@ -22,6 +22,6 @@ Or install it yourself as:
 
 input terminal
 
-$ todays_lunch
+    $ todays_lunch
 
 return japanese lunch menu
