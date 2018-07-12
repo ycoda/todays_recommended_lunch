@@ -25,3 +25,7 @@ input terminal
     $ todays_lunch
 
 return japanese lunch menu
+
+## Sample
+
+![screenshot](https://user-images.githubusercontent.com/3740249/42621541-122c7268-85f9-11e8-8336-7f1283ce6408.png)
