@@ -20,12 +20,14 @@ Or install it yourself as:
 
 ## Usage
 
+return japanese lunch menu
+
 input terminal
 
     $ todays_lunch
+    #=> 今日の昼食は、これ！
+    #=> そば
 
-return japanese lunch menu
-
-## Sample
-
-![screenshot](https://user-images.githubusercontent.com/3740249/42621541-122c7268-85f9-11e8-8336-7f1283ce6408.png)
+    $ todays_lunch
+    #=> 今日の昼食は、これ！
+    #=> おにぎり
